@@ -21,5 +21,4 @@ public class Day2Task4 {
     s=new Square();
     s.draw();
   }
-  
 }
